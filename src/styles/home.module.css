@@ -1,0 +1,79 @@
+.header {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-gap: 40px;
+    max-width: 1000px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 11%;
+  }
+.header h3, .header h2 , .header h1 {
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+.header .resume a{
+  color: rgb(204, 186, 94);
+  border-bottom: 2px dashed rgb(204, 186, 94);
+  padding-bottom: 5px;
+}
+.header .resume a:hover{
+  color: #bbb;
+  border-bottom: 2px dashed #bbb;
+  padding-bottom: 5px;
+}
+.header img{
+  width:100%;
+  float:right;
+  margin-bottom:20px;
+  border-radius:50%;
+}
+.btn {
+  display: inline-block;
+  background: #D42990;
+  padding: 10px 16px;
+  border-radius: 10px;
+  margin-top: 20px;
+  font-weight: 500;
+}
+.ex-Link{
+  color: rgb(204, 186, 94);
+  display: flex;
+  margin-bottom: 20px;
+}
+.ex-Link:hover{
+  color: #bbb;
+}
+.grid1 box-icon{
+  fill :rgb(204, 186, 94);
+  float: left;
+  margin-left: 0;
+  margin-right: 10px;
+}
+.grid2 box-icon{
+  fill:rgb(204, 186, 94);
+  margin-left: 15px;
+  float: right;
+}
+box-icon:hover{
+  fill: #bbb;
+}
+.tech h1 {
+  font-weight: 400;
+  margin-bottom: 20px;
+  margin-top: 10%;
+  text-align: center;
+}
+.tech .tech-grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 40px;
+  max-width: 1000px;
+  margin-top: 50px;
+  margin-left: 20%;
+  margin-right: 20%;
+  text-align: center;
+}
+.icons{
+  margin-top: 5px;
+  height: 40px;
+}
