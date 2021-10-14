@@ -48,7 +48,7 @@
 ## 📝 License
 
 Copyright © 2021 [Pemba Norsang Sherpa](https://github.com/pemba1s1).<br />
-
+This project is [MIT](https://github.com/pemba1s1/pembasherpa/blob/main/LICENSE) licensed.
 ---
 
 **Depoly on your own Netlify Instance**
