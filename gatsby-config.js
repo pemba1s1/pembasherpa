@@ -25,6 +25,22 @@ module.exports = {
         path: `${__dirname}/static/`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `content`,
+        path: `${__dirname}/content/`,
+      },
+    },
+    "gatsby-plugin-mdx",
+    `gatsby-transformer-json`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/`,
+      },
+    },
+    "gatsby-transformer-sharp",
     
   ],
 };

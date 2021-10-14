@@ -13,7 +13,6 @@ export default function Project() {
                 </div>
             </div>
             <div className={item1}>
-                <img src="static/image/project/webstories.png"></img>
             </div>
             <div className={item2}>
                 <p>A place for reading, writing and sharing short stories and novels with other people.</p>
@@ -24,3 +23,4 @@ export default function Project() {
         </div>
     )
 }
+

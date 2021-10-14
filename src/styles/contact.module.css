@@ -1,0 +1,57 @@
+.contact{
+    display: grid;
+    height: 445px;
+    max-width: 1200px;
+    grid-template-columns: 1fr;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+    text-align: center;
+    padding: 20px 40px;
+}
+.contact h1{
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.contact .item{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-bottom: 20px;
+    grid-column-gap: 20px;
+}
+.contact  label{
+    display: block;
+    margin-bottom: 10px;
+    text-align: left;
+}
+.contact input{
+    padding: 5px 10px;
+    height: 25px;
+    width: 96%;
+    font-size: 17px;
+    color: black;
+}
+.contact textarea{
+    padding: 10px 10px;
+    width: 98%;
+    font-size: 17px;
+    color: black;
+}
+.contact button{
+    background-color: rgb(204, 186, 94);
+    border-radius: 5%;
+    border: 1px solid rgb(204, 186, 94);
+    margin-top: 20px;
+    width: 17%;
+    height: 50px;
+    float: left;
+    font-size: 17px;
+    color: black;
+    cursor: pointer;
+    font-weight: 410;
+}
+.contact button:hover{
+    background-color: #bbb;
+    border-color: #bbb;
+    color: white;
+}

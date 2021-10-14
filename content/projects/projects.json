@@ -1,0 +1,10 @@
+[
+    {
+      "title": "Web Stories",
+      "repo": "https://github.com/pemba1s1/WebStories",
+      "demo": "https://web-stories.herokuapp.com/",
+      "src": "../../static/image/project/webstories.png",
+      "description": "A place for reading, writing and sharing short stories and novels with other people.",
+      "techs": ["Php", "MySql"]
+    }
+]
