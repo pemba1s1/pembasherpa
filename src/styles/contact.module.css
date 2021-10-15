@@ -1,10 +1,10 @@
 .contact{
     display: grid;
     height: 445px;
-    max-width: 1200px;
+    max-width: 550px;
     grid-template-columns: 1fr;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 5%;
     text-align: center;
     padding: 20px 40px;
@@ -42,7 +42,7 @@
     border-radius: 5%;
     border: 1px solid rgb(204, 186, 94);
     margin-top: 20px;
-    width: 17%;
+    width: 100px;
     height: 50px;
     float: left;
     font-size: 17px;
@@ -54,4 +54,14 @@
     background-color: #bbb;
     border-color: #bbb;
     color: white;
+}
+@media screen and (max-width:890px) {
+    .contact .item{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-row-gap: 20px;
+    }
+    .contact input{
+        width: 98%;
+    }
 }

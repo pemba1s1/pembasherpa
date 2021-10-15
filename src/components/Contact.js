@@ -8,18 +8,18 @@ export default function Contact() {
                 <form action="">
                 <div className={item}>
                     <div>
-                        <label htmlFor="">Name:</label>
-                        <input type="text" />
+                        <label htmlFor="name">Name:</label>
+                        <input type="text" name="name"/>
                     </div>
                     <div>
-                        <label htmlFor="">Email Address:</label>
-                        <input type="text" />
+                        <label htmlFor="email">Email Address:</label>
+                        <input type="text" name="email"/>
                     </div>
                     
                 </div>
                 <div>
-                    <label htmlFor="">Message:</label>
-                    <textarea name="" id="" cols="30" rows="10"></textarea>
+                    <label htmlFor="message">Message:</label>
+                    <textarea name="message" id="" cols="30" rows="10"></textarea>
                 </div>
                 <div>
                     <button type="submit">Submit</button>
