@@ -2,7 +2,7 @@
  <img alt="Logo" src="https://raw.githubusercontent.com/pemba1s1/pembasherpa/main/static/favicon.ico" width="100" />
 
  <a href="#">
-	<h1 align="center">Pemba Norsang Sherpa</h1>
+	<h1 align="center" href="https://pemba1s1.netlify.app/">Pemba Norsang Sherpa</h1>
   </a>
 </p>
 
