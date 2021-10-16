@@ -128,4 +128,7 @@ footer p a:hover{
   nav .mobile-links{
     display: flex;
   }
+  footer{
+    display: none;
+  }
 }

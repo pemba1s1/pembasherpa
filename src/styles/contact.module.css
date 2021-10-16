@@ -25,14 +25,14 @@
     text-align: left;
 }
 .contact input{
-    padding: 5px 10px;
+    padding: 5px 0px 5px 10px;
     height: 25px;
     width: 96%;
     font-size: 17px;
     color: black;
 }
 .contact textarea{
-    padding: 10px 10px;
+    padding: 10px 0px 10px 10px;
     width: 98%;
     font-size: 17px;
     color: black;
@@ -63,5 +63,22 @@
     }
     .contact input{
         width: 98%;
+    }
+}
+@media screen and (max-width:435px) and (max-height:700px){
+    .contact{
+        font-size: 14px;
+        height: 700px;
+        border: 1px solid;
+    }
+    .contact .item{
+        grid-gap: 5px;
+        margin-bottom: 5px;
+    }
+    .contact textarea{
+        height: 200px;
+    }
+    .contact button{
+        margin-bottom: 85px;
     }
 }
