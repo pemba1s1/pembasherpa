@@ -9,7 +9,13 @@
 <p align="center">
   Personal website
   built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a>
+
 </p>
+<div align="center">
+
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/179712b6-9ccb-4b4a-94fa-1a6e940db1e9/deploy-status)](https://app.netlify.com/sites/pemba1s1/deploys)
+
+</div>
 
 
 ## 🛠 Installation & Set Up
