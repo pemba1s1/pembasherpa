@@ -39,7 +39,7 @@
 }
 .project .item2 p{
   font-weight: 400;
-  text-align: center;
+  margin-left: 20px;
 }
 .project .item2 .tech{
   border: 1px solid;
