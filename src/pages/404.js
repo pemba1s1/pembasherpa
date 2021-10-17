@@ -7,7 +7,7 @@ export default function NotFound() {
     <Layout>
       <div style={{fontWeight:'400',marginTop:'7%',textAlign:'center'}}>
         <h1>404 Not Found</h1>
-        <h2>Might want to go back to <Link to="./" style={{color:"rgb(204, 186, 94)"}}>homepage..</Link></h2>
+        <h2>Might want to go back to <Link to="/" style={{color:"rgb(204, 186, 94)"}}>homepage..</Link></h2>
       </div>
     </Layout>
   )
