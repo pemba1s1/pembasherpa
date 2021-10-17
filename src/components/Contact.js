@@ -5,7 +5,13 @@ export default function Contact() {
     return (
         <div className={contact}>
                 <h1>Hello Drop A Message</h1>
-                <form action="">
+                <form 
+                name="contact"
+                method="post"
+                data-netlify="true"
+                data-netlify-honeypot="bot-field"
+                autoComplete="off">
+                <input type="hidden" name="form-name" value="contact" />
                 <div className={item}>
                     <div>
                         <label htmlFor="name">Name:</label>

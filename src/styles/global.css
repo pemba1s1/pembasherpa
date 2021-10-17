@@ -110,6 +110,10 @@ footer p a{
 footer p a:hover{
   color: #bbb;
 }
+.bot{
+  height: 100px;
+  display: none;
+}
 @media screen and (max-width:950px){
   nav h1{
     left: 4%;
@@ -130,5 +134,8 @@ footer p a:hover{
   }
   footer{
     display: none;
+  }
+  .bot{
+    display: block;
   }
 }
