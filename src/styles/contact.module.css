@@ -65,6 +65,11 @@
         width: 98%;
     }
 }
+@media screen and (max-height: 580px) {
+    .contact{
+        height: 550px;
+    }
+}
 @media screen and (max-width:435px) and (max-height:700px){
     .contact{
         font-size: 14px;
