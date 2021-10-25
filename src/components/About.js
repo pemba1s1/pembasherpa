@@ -22,7 +22,7 @@ export default function About() {
                 <box-icon name='mail-send' size='md' color='#bbb'></box-icon><a href="mailto:norsangpemba@gmail.com" className={exLink} style={{paddingTop:'5px'}}>norsangpemba@gmail.com</a>
             </div>
             <div className={resume}>
-                <a href="https://drive.google.com/file/d/1bibbX_0GxVvK5V_kKDFf3vsUe9Fw5giO/view?usp=sharing" target="_blank" rel="noreferrer">View Resume</a>
+                <a href="https://drive.google.com/file/d/1xV_QRMZgoQpv00oFCYyOPbYoPxgH8w1x/view?usp=sharing" target="_blank" rel="noreferrer">View Resume</a>
             </div>  
         </section>
     )
