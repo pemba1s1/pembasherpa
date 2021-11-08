@@ -1,5 +1,13 @@
 [
     {
+      "title": "Blog Man",
+      "repo": "https://github.com/pemba1s1/blog-man",
+      "demo": "https://blog-man.herokuapp.com/",
+      "src": "../../images/project/blogman.png",
+      "description": "A blog application built using MERN stack with features like Log In, User registration, User profile edit, User profile , Blog with CRUD functionalities.",
+      "techs": ["React", "MongoDb","Node.js","Express"]
+    },
+    {
       "title": "Web Stories",
       "repo": "https://github.com/pemba1s1/WebStories",
       "demo": "https://web-stories.herokuapp.com/",
@@ -7,6 +15,7 @@
       "description": "A place for reading, writing and sharing short stories and novels with other people.",
       "techs": ["Php", "MySql"]
     }
+    
     
     
 ]
