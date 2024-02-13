@@ -2,18 +2,17 @@
     {
       "title": "Blog Man",
       "repo": "https://github.com/pemba1s1/blog-man",
-      "demo": "https://blog-man.herokuapp.com/",
+      "demo": "https://blog-man-ten.vercel.app/",
       "src": "../../images/project/blogman.png",
       "description": "A blog application built using MERN stack with features like Log In, User registration, User profile edit, User profile , Blog with CRUD functionalities.",
       "techs": ["React", "MongoDb","Node.js","Express"]
     },
     {
-      "title": "Web Stories",
-      "repo": "https://github.com/pemba1s1/WebStories",
-      "demo": "https://web-stories.herokuapp.com/",
-      "src": "../../images/project/webstories.png",
+      "title": "Vanthena NFT",
+      "demo": "https://vanthena-dapp-7kn4l4lt3-dt6120.vercel.app/",
+      "src": "../../images/project/vanthena.jpg",
       "description": "A place for reading, writing and sharing short stories and novels with other people.",
-      "techs": ["Php", "MySql"]
+      "techs": ["Solidity", "Blockchain", "Next.JS"]
     }
     
     

@@ -16,8 +16,8 @@ export default function Project({node}) {
             </div>
             <GatsbyImage image={image} alt={node.title} className={img}/>
             <div className={gitlink}>
-                <a href={node.repo} target="_blank" rel="noreferrer"><box-icon type='logo' name='github'></box-icon></a>
-                <a href={node.demo} target="_blank" rel="noreferrer"><box-icon name='link-external' ></box-icon></a>
+                { node.repo && <a href={node.repo} target="_blank" rel="noreferrer"><box-icon type='logo' name='github'></box-icon></a> }
+                { node.demo && <a href={node.demo} target="_blank" rel="noreferrer"><box-icon name='link-external' ></box-icon></a> }
             </div>
             <div className={item2}>
                 <p>{node.description}</p>
