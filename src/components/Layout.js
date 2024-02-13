@@ -10,7 +10,7 @@ export default function Layout({children}) {
                 {children}
             </div>
             <footer>
-                <p>&copy; Pemba 2021, Built with <a href="https://www.gatsbyjs.com/">Gatsby</a></p>
+                <p>&copy; Pemba 2023, Built with <a href="https://www.gatsbyjs.com/">Gatsby</a></p>
             </footer>
             <div className="bot"></div>
         </div>

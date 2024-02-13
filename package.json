@@ -17,16 +17,16 @@
   "dependencies": {
     "@mdx-js/mdx": "^1.6.22",
     "@mdx-js/react": "^1.6.22",
-    "boxicons": "^2.0.9",
-    "gatsby": "^3.13.1",
-    "gatsby-plugin-image": "^1.14.1",
-    "gatsby-plugin-manifest": "^3.14.0",
-    "gatsby-plugin-mdx": "^2.14.0",
-    "gatsby-plugin-sharp": "^3.14.1",
-    "gatsby-source-filesystem": "^3.14.0",
-    "gatsby-transformer-json": "^3.14.0",
-    "gatsby-transformer-sharp": "^3.14.0",
+    "boxicons": "^2.1.4",
+    "gatsby": "^3.15.0",
+    "gatsby-plugin-image": "^1.15.0",
+    "gatsby-plugin-manifest": "^3.15.0",
+    "gatsby-plugin-mdx": "^2.15.0",
+    "gatsby-plugin-sharp": "^3.15.0",
+    "gatsby-source-filesystem": "^3.15.0",
+    "gatsby-transformer-json": "^3.15.0",
+    "gatsby-transformer-sharp": "^3.15.0",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.2"
   }
 }

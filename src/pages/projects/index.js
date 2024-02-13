@@ -9,7 +9,7 @@ export default function index({data}) {
         <div>
             <Layout>
             <title>Projects | Pemba</title>
-            <h1 className={web} style={{borderBottom:"1px solid",width:"300px",marginLeft:"auto",marginRight:"auto"}}>Web Applications</h1>
+            <h1 className={web} style={{borderBottom:"1px solid",width:"200px",marginLeft:"auto",marginRight:"auto"}}>My Projects</h1>
             {data.allProjectsJson.nodes.map(node=>(
                 <Project node={node} key={node.id}/>
             ))}

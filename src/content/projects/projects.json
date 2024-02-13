@@ -11,8 +11,13 @@
       "title": "Vanthena NFT",
       "demo": "https://vanthena-dapp-7kn4l4lt3-dt6120.vercel.app/",
       "src": "../../images/project/vanthena.jpg",
-      "description": "A place for reading, writing and sharing short stories and novels with other people.",
       "techs": ["Solidity", "Blockchain", "Next.JS"]
+    },
+    {
+      "title": "Real Estate Blockchain Smart Code",
+      "repo": "https://github.com/pemba1s1/real-estate-blockchain",
+      "src": "../../images/project/realestate.jpg",
+      "techs": ["Solidity", "Blockchain"]
     }
     
     
